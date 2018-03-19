@@ -1,8 +1,8 @@
-### Испытание 1
+### Challenge 1
 
 Когда твой первык урок будет окончен, юный падаван, ты в совершенстве
 должен овладеть понятиями интерфейса, класса, имплементации и наследования.
 
 Начнем с простого:
 1. Взяв интерфейс Figure, построить нужно тебе две иерархии классов:
-![][https://github.com/asstart/java-lessons/tree/master/resource/figure1.png]
+![](https://github.com/asstart/java-lessons/tree/master/resource/figure1.png "Class diagram challenge 1")

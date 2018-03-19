@@ -1,7 +1,15 @@
 package java.edu.lessons.part1.interfaces;
 
-/**
- * You need to implements interface
- */
-public interface Task1 {
+import java.math.BigDecimal;
+
+public interface Snowboard extends Comparable<Snowboard>, Sellable {
+
+    float getSnowboardLength();
+
+    String getSnowboardFlex();
+
+    String getSnowboardShape();
+
+    BigDecimal getSnowboardPrice();
+
 }

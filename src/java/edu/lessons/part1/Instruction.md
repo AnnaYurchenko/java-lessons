@@ -5,4 +5,4 @@
 
 Начнем с простого:
 1. Взяв интерфейс Figure, построить нужно тебе две иерархии классов:
-![](https://github.com/asstart/java-lessons/tree/master/resource/figure1.png "Class diagram challenge 1")
+![](https://github.com/asstart/java-lessons/blob/master/resource/figure1.png "Class diagram challenge 1")
